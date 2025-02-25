@@ -1,4 +1,7 @@
-## Hi there 👋 It's me Venkateshan
+# Hi there 👋 It's me Venkateshan
+
+## About Me
+I'm a passionate developer with a strong interest in video game development and web application projects. I love to create and explore new technologies, always aiming to bring innovative ideas.
 
 ## Contact Me
 - 📧 Email: venkateshanramasamy2001@gmail.com 
@@ -10,7 +13,7 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 
 ### IDE and Tools I Use
-<img width="48" height="48" src="https://img.icons8.com/color/48/unity.png" alt="unity"/>  <img width="48" height="48" src="https://img.icons8.com/fluency/48/blender-3d.png" alt="blender-3d"/> <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="visual-studio--v2"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
+<img width="48" height="48" src="https://img.icons8.com/color/48/unity.png" alt="unity"/>  <img width="48" height="48" src="https://img.icons8.com/fluency/48/blender-3d.png" alt="blender-3d"/> <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="visual-studio--v2"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/net-framework.png" alt="net-framework"/>
 
 
 
