@@ -5,7 +5,8 @@ I'm a passionate developer with a strong interest in video game development and 
 
 ## Contact Me
 - 📧 Email: venkateshanramasamy2001@gmail.com 
-- 💼 [LinkedIn](https://www.linkedin.com/in/venkateshan-k-s-1a8957346)
+- 💼 [LinkedIn](https://www.linkedin.com/in/venkateshan-k-s)
+- [Itch.io](https://vadervenkat.itch.io/)
 
 
 ### I code in
